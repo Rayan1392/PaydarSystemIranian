@@ -13,6 +13,10 @@ namespace PaydarSystemIranian.Controllers
             return View();
         }
 
+        /// <summary>
+        /// test
+        /// </summary>
+        /// <returns></returns>
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
