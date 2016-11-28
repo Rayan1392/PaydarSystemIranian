@@ -8,6 +8,10 @@ namespace PaydarSystemIranian.Controllers
 {
     public class HomeController : Controller
     {
+        /// <summary>
+        /// this is pooya's comment.
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Index()
         {
             return View();
